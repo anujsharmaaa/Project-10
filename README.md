@@ -32,7 +32,7 @@ https://project-10-ineuronai.netlify.app/
 
 ## Features
 
-- Live previews
+- Live previews 
 - Fullscreen mode
 - Cross platform
 
